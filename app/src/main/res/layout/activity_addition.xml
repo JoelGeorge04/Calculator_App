@@ -1,6 +1,6 @@
 <LinearLayout android:layout_height="match_parent"
     android:layout_width="match_parent"
-    android:background="#E6E0F0"
+    android:background="#D6CBE9"
     android:orientation="vertical"
     android:gravity="center"
     android:padding="20px"
