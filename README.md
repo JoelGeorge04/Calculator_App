@@ -13,7 +13,12 @@ To deploy this project run
 
 ## Screenshots
 
-![App Screenshot](https://postimg.cc/0M63MXV6)
+![App Screenshot](https://i.postimg.cc/j5vr1GNh/cal1.jpg)
+![App Screenshot](https://i.postimg.cc/cCHNGXBG/cal2.jpg)
+![App Screenshot](https://i.postimg.cc/qq5HJy1h/cal3.jpg)
+![App Screenshot](https://i.postimg.cc/5NXMPKtw/cal4.jpg)
+![App Screenshot](https://i.postimg.cc/qMWHWctW/cal5.jpg)
+![App Screenshot](https://i.postimg.cc/mgMW4cCk/cal6.jpg)
 
 
 
